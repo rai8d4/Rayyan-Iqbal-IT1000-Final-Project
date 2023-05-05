@@ -1,0 +1,18 @@
+body {
+    background-color: ##B2AC88;
+}
+  
+h1 {
+  color: gold;
+  margin-left: 20px;
+}
+
+p {
+  background-color: forestgreen;
+  border-style: groove;
+  border-color: brown;
+}
+
+p {
+    color: white
+}
